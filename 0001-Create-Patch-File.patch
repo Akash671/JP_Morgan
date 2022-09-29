@@ -1,0 +1,47 @@
+From 6baac1a5bfde5e358f95594231a7aaf57fc857d5 Mon Sep 17 00:00:00 2001
+From: Akash671 <akashsaini454545@gmail.com>
+Date: Thu, 29 Sep 2022 13:59:57 +0530
+Subject: [PATCH] Create Patch File
+
+---
+ Intern/JPMC-tech-task-1     | 1 +
+ Intern/JPMC-tech-task-1-py3 | 1 +
+ Intern/JPMC-tech-task-2     | 1 +
+ Intern/JPMC-tech-task-2-PY3 | 1 +
+ 4 files changed, 4 insertions(+)
+ create mode 160000 Intern/JPMC-tech-task-1
+ create mode 160000 Intern/JPMC-tech-task-1-py3
+ create mode 160000 Intern/JPMC-tech-task-2
+ create mode 160000 Intern/JPMC-tech-task-2-PY3
+
+diff --git a/Intern/JPMC-tech-task-1 b/Intern/JPMC-tech-task-1
+new file mode 160000
+index 0000000..9629292
+--- /dev/null
++++ b/Intern/JPMC-tech-task-1
+@@ -0,0 +1 @@
++Subproject commit 96292924e731bb221f3f139b86a1d1845dd1a631
+diff --git a/Intern/JPMC-tech-task-1-py3 b/Intern/JPMC-tech-task-1-py3
+new file mode 160000
+index 0000000..ad45a45
+--- /dev/null
++++ b/Intern/JPMC-tech-task-1-py3
+@@ -0,0 +1 @@
++Subproject commit ad45a4597e516b3947561e4fbf8aea5976081cd5
+diff --git a/Intern/JPMC-tech-task-2 b/Intern/JPMC-tech-task-2
+new file mode 160000
+index 0000000..a2a5e7b
+--- /dev/null
++++ b/Intern/JPMC-tech-task-2
+@@ -0,0 +1 @@
++Subproject commit a2a5e7b9e9bbf08afacc5e790ea800662dc38e4c
+diff --git a/Intern/JPMC-tech-task-2-PY3 b/Intern/JPMC-tech-task-2-PY3
+new file mode 160000
+index 0000000..3ed2cc4
+--- /dev/null
++++ b/Intern/JPMC-tech-task-2-PY3
+@@ -0,0 +1 @@
++Subproject commit 3ed2cc4b270e55fc659c928278f16f991bab1cda
+-- 
+2.35.1
+
